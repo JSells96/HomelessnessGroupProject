@@ -33,9 +33,16 @@ Data Wrangling and cleaning Notebook:
 https://github.com/The-Six-Data-Divas/Homelessness-Final-Group-Project/tree/main/Code
 
 Phase 3: Exploratory Analysis
+(Completed on May __, 2022)
 
 Phase 4: Data Analysis and Machine Learning
+(completed on May__, 2022)
 
 Visualization
+(completed on May__, 2022)
+
 
 Presentation
+(Presented on May __, 2022)
+Project was presented via Zoom to Woz U/ Entity Academy Faculty and Studentsfor Internal review on May __, 2022.
+

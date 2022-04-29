@@ -15,9 +15,9 @@ install.packages("reshape")
 library("reshape")
 
 #Load Data 
-NatlHomelessPops16_21 <- read_xlsx("/Users/jessicasells/Desktop/School/Final/Datasets/HomelessPopulationsReport2016-2021.xlsx")
-NatlPopFacts <- read_xlsx("/Users/jessicasells/Desktop/School/Final/Datasets/homeless_population_usafacts.xlsx")
-NatlPop <- read_csv("/Users/jessicasells/Desktop/School/Final/Datasets/nst-est2020.csv")
+NatlHomelessPops16_21 <- read_xlsx("../../Data/HomelessPopulationsReport2016-2021.xlsx")
+NatlPopFacts <- read_xlsx("../../Data/homeless_population_usafacts.xlsx")
+NatlPop <- read_csv("../../Data/nst-est2020.csv")
 
 
 #Data Wrangle

@@ -1,7 +1,7 @@
 # Homelessness-Final-Group-Project
 ![image](https://user-images.githubusercontent.com/91347128/165450499-68b8a850-28f6-41f2-b383-af9fd26f7415.png)
 A look at the Homeless Population in the United States.
-This Data Analysis will explore some factors that have contributed or affected the homeless comunity in the past decade.
+This Data Analysis will explore some factors that have contributed or affected the homeless community in the past decade.
 What are the Top 3 Stated with the highest  and lowest number of Homeless population.
 
 For Completion of the Final Project requirement of Entity Academy / Woz-U Data Science Curriculum.

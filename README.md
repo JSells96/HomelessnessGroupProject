@@ -33,7 +33,7 @@ Data Wrangling and cleaning Notebook:
 https://github.com/The-Six-Data-Divas/Homelessness-Final-Group-Project/tree/main/Code
 
 Phase 3: Exploratory Analysis
-(Completed on May __, 2022)
+(Completed on May 08, 2022)
 
 Phase 4: Data Analysis and Machine Learning
 (completed on May__, 2022)

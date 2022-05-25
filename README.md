@@ -52,6 +52,7 @@ Various completed analyses, trees, etc were uploaded into the Code Notebook with
 Phase 5: Visualization
 
 (Completed on May 22, 2022)
+
 Utilizing Tableau to see our data from a visual standpoint with bar and line graphs, charts, and maps.
 
 Final Phase: Presentation

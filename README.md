@@ -5,7 +5,7 @@ This Data Analysis will explore some factors that have contributed or affected t
 
 For Completion of the Final Project requirement for Entity Academy X Woz-U Data Science Curriculum.
 
-A collaborative project of LaKisha Collins-Mitchell, Hanyury Ascencio, Jessica Jay-Sells, Amari V Colinares and Leketa Denis Hobbs.
+A collaborative project of LaKisha Collins-Mitchell, Hanyury Ascencio, Jessica Jay-Sells, Amari V Colinares and Leketa Denise Hobbs.
 
 
 Phase 1: Dataset Creation
@@ -53,6 +53,7 @@ Phase 5: Visualization
 
 (Completed on May 22, 2022)
 
+Utilizing Tableau to see our data from a visual standpoint with bar and line graphs, charts, and maps.
 
 Final Phase: Presentation
 

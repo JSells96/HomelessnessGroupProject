@@ -53,11 +53,14 @@ Phase 5: Visualization
 
 (Completed on May 22, 2022)
 
-Utilizing Tableau to see our data from a visual standpoint with bar and line graphs, charts, and maps.
+Utilizing Tableau and other applications to see our data from a visual standpoint with bar and line graphs, charts, and maps. Built group powerpoint to be completed collaboratively between all team members.
 
 Final Phase: Presentation
 
 (Presented on May 26, 2022)
 
 Refined and rehearsed final project to be completed for review via Zoom to faculty. 
+
+Powerpoint:
+https://github.com/The-Six-Data-Divas/Homelessness-Final-Group-Project/tree/main/Visualization
 
